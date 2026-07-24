@@ -51,6 +51,19 @@ def test_both_pages_expose_bidirectional_view_switch():
         assert "assets/view-mode.js" in source
 
 
+def test_both_pages_share_the_service_status_banner():
+    loader = read("assets/service-status.js")
+    assert 'get("data")' in loader
+    assert 'localStorage.getItem("dataBaseUrl")' in loader
+    assert "service-status.json" in loader
+    assert 'incident.status !== "resolved"' in loader
+
+    for path in ("index.html", "classic/index.html"):
+        source = read(path)
+        assert 'id="serviceStatusPanel"' in source
+        assert "assets/service-status.js" in source
+
+
 def test_view_switch_follows_update_time_in_both_headers():
     for path in ("index.html", "classic/index.html"):
         source = read(path)
