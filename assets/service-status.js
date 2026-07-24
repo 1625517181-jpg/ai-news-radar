@@ -113,7 +113,14 @@
     panel.setAttribute("aria-label", `服务状态：${incidents.length} 项故障正在处理`);
   }
 
-  fetch(`${dataUrl("data/service-status.json")}?t=${Date.now()}`)
+  const controller = new AbortController();
+  const timeout = window.setTimeout(() => controller.abort(), 8000);
+
+  fetch(dataUrl("data/service-status.json"), {
+    cache: "no-cache",
+    headers: { Accept: "application/json" },
+    signal: controller.signal,
+  })
     .then((response) => {
       if (!response.ok) throw new Error(`service status ${response.status}`);
       return response.json();
@@ -121,5 +128,8 @@
     .then(render)
     .catch(() => {
       panel.hidden = true;
+    })
+    .finally(() => {
+      window.clearTimeout(timeout);
     });
 })();

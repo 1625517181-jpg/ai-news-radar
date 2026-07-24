@@ -292,8 +292,9 @@ select {
   font-size: 14px;
 }
 
-input:focus,
-select:focus,
+input:focus-visible,
+select:focus-visible,
+a:focus-visible,
 button:focus-visible,
 summary:focus-visible {
   outline: 2px solid rgba(18, 106, 115, 0.35);
@@ -1605,6 +1606,70 @@ summary:focus-visible {
   transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
+.timeline-item {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 190px;
+}
+
+.skeleton-stack {
+  display: grid;
+  gap: 10px;
+  width: 100%;
+}
+
+.skeleton-card {
+  display: grid;
+  gap: 10px;
+  min-height: 118px;
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius);
+  padding: 16px;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.skeleton-line {
+  display: block;
+  height: 11px;
+  border-radius: 999px;
+  background: linear-gradient(
+    100deg,
+    rgba(23, 23, 23, 0.06) 20%,
+    rgba(18, 106, 115, 0.12) 44%,
+    rgba(23, 23, 23, 0.06) 68%
+  );
+  background-size: 240% 100%;
+  animation: skeleton-shift 1.35s ease-in-out infinite;
+}
+
+.skeleton-line-short {
+  width: 24%;
+}
+
+.skeleton-line-title {
+  width: 82%;
+  height: 17px;
+}
+
+.skeleton-line-body {
+  width: 58%;
+}
+
+.load-error small {
+  display: block;
+  margin: 8px 0 14px;
+  color: var(--muted);
+}
+
+@keyframes skeleton-shift {
+  from {
+    background-position: 100% 0;
+  }
+
+  to {
+    background-position: -100% 0;
+  }
+}
+
 .news-card:hover,
 .intel-card:hover {
   transform: translateY(-2px);
@@ -1613,10 +1678,12 @@ summary:focus-visible {
 
 @media (prefers-reduced-motion: reduce) {
   .news-card,
-  .intel-card {
+  .intel-card,
+  .skeleton-line {
     will-change: auto;
     transition: none;
     transform: none !important;
+    animation: none;
   }
 
   .news-card:hover,
