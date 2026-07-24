@@ -1813,7 +1813,7 @@ def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[
 def service_incident_title_zh(title: str) -> str:
     normalized = re.sub(r"\s+", " ", str(title or "")).strip()
     exact = {
-        "Elevated Error Rates": "错误率升高",
+        "Elevated Error Rates": "ChatGPT 等 OpenAI 服务错误率升高",
         "Elevated Errors in Codex Review": "Codex Review 错误率升高",
     }
     if normalized in exact:
