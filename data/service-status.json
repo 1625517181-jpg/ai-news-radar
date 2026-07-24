@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-24T10:37:51.875917Z",
+  "generated_at": "2026-07-24T12:45:06.839256Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -17,12 +17,12 @@
       "id": "01KY7SX5MYJ2BP51X5MXAPYX71",
       "provider": "OpenAI",
       "title": "Elevated Error Rates",
-      "title_zh": "错误率升高",
-      "status": "investigating",
+      "title_zh": "ChatGPT 等 OpenAI 服务错误率升高",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-07-23T15:36:02Z",
-      "updated_at": "2026-07-24T10:06:05Z",
-      "message": "We are investigating the issue for the listed services.",
+      "updated_at": "2026-07-24T11:34:20Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01KY7SX5MYJ2BP51X5MXAPYX71"
     }
