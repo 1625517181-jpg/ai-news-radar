@@ -36,6 +36,26 @@
     }).format(date);
   }
 
+  function providerLabel(incident) {
+    const components = Array.isArray(incident?.affected_components)
+      ? incident.affected_components
+      : [];
+    const signal = [incident?.title, incident?.title_zh, ...components]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase();
+    if (signal.includes("chatgpt")) return "ChatGPT";
+    if (incident?.title === "Elevated Error Rates") return "ChatGPT / OpenAI";
+    return incident?.provider || "OpenAI";
+  }
+
+  function incidentTitle(incident) {
+    if (incident?.title === "Elevated Error Rates") {
+      return "ChatGPT 等 OpenAI 服务错误率升高";
+    }
+    return incident?.title_zh || incident?.title || "服务异常";
+  }
+
   function incidentNode(incident) {
     const row = document.createElement("article");
     row.className = `service-incident impact-${incident.impact || "none"}`;
@@ -48,7 +68,7 @@
 
     const provider = document.createElement("span");
     provider.className = "service-provider";
-    provider.textContent = incident.provider || "OpenAI";
+    provider.textContent = providerLabel(incident);
 
     const phase = document.createElement("span");
     phase.className = "service-phase";
@@ -60,7 +80,7 @@
     title.href = incident.url || "https://status.openai.com/";
     title.target = "_blank";
     title.rel = "noopener noreferrer";
-    title.textContent = incident.title_zh || incident.title || "服务异常";
+    title.textContent = incidentTitle(incident);
 
     main.append(meta, title);
 
@@ -92,12 +112,12 @@
     dot.className = "service-status-dot";
     dot.setAttribute("aria-hidden", "true");
     const title = document.createElement("strong");
-    title.textContent = "服务状态";
+    title.textContent = "ChatGPT / OpenAI 服务状态";
     titleWrap.append(dot, title);
 
     const count = document.createElement("span");
     count.className = "service-status-count";
-    count.textContent = `${incidents.length} 项处理中`;
+    count.textContent = `${incidents.length} 项官方故障`;
     heading.append(titleWrap, count);
 
     const list = document.createElement("div");
@@ -110,7 +130,10 @@
       incidents.some((incident) => ["major", "critical"].includes(incident.impact)),
     );
     panel.hidden = false;
-    panel.setAttribute("aria-label", `服务状态：${incidents.length} 项故障正在处理`);
+    panel.setAttribute(
+      "aria-label",
+      `ChatGPT 与 OpenAI 服务状态：${incidents.length} 项故障正在处理`,
+    );
   }
 
   const controller = new AbortController();
