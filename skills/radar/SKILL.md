@@ -268,7 +268,7 @@ EOF
 
 ## 失败模式
 
-- **Pages 404 / 网络失败**：换 raw 地址重试一次：`https://raw.githubusercontent.com/LearnPrompt/ai-news-radar/master/data/latest-24h.json`。还不行就如实告知，不要编造新闻。
+- **Pages 404 / 网络失败**：换 raw 地址重试一次：`https://raw.githubusercontent.com/1625517181-jpg/ai-news-radar/master/data/latest-24h.json`。还不行就如实告知，不要编造新闻。
 - **service-status.json 不存在或读取失败**：继续生成普通简报，不要把读取失败解释成“服务正常”。
 - **数据过期**：见"新鲜度检查"。照常回答 + 显著标注 + 建议维护者排查。
 - **top3-personas.json 为空**：降级模式，如实说明三口味点评需要上游配 LLM Key，退回普通简报。
