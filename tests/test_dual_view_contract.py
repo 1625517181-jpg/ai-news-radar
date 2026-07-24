@@ -65,7 +65,7 @@ def test_both_pages_share_the_service_status_banner():
     assert 'id="serviceStatusPanel"' in mobile_source
     assert 'id="serviceStatusPanel"' in classic_source
     assert './assets/service-status.js?v=chatgpt-status-0724' in mobile_source
-    assert '../assets/service-status.js?v=chatgpt-status-0724' in classic_source
+    assert './assets/service-status.js?v=chatgpt-status-0724' in classic_source
 
 
 def test_data_fetches_revalidate_without_unique_cache_busters():
