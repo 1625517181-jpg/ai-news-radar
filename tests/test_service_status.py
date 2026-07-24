@@ -48,7 +48,7 @@ def test_openai_service_status_keeps_only_active_incidents():
     assert result["active_count"] == 1
     assert len(result["incidents"]) == 1
     incident = result["incidents"][0]
-    assert incident["title_zh"] == "错误率升高"
+    assert incident["title_zh"] == "ChatGPT 等 OpenAI 服务错误率升高"
     assert incident["status"] == "monitoring"
     assert incident["affected_components"] == ["API", "ChatGPT"]
     assert incident["url"].endswith("/incidents/active-1")
