@@ -204,6 +204,7 @@ AI News Radar学习了现代新闻学的技术，不是简单堆信息源，一�
 - `data/latest-24h-all.json`：最近24小时广义AI相关消息（score >= 0.3）
 - `data/latest-24h-all-raw.json`：最近24小时零过滤全量消息（dev-only，不接入前端UI）
 - `data/source-status.json`：来源抓取状态、成功率、站点覆盖和源健康
+- `data/service-status.json`：官方服务当前仍在处理的故障；无活动故障时网页自动隐藏该栏
 - `data/stories-merged.json`：故事合并后的完整事件集合
 - `data/merge-log.json`：故事合并过程和命中记录，方便调试与审计
 
@@ -277,6 +278,7 @@ python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml fee
 - 支持手动触发 `workflow_dispatch`；需要忽略 TikHub 的正常付费源间隔时，显式传入 `force_tikhub=true`
 - 默认每 30 分钟运行一次：`*/30 * * * *`
 - 自动生成并提交 `data/*.json`；工作流使用 `git add data/`，避免新增 JSON 文件因为白名单遗漏而停留在旧更新时间
+- 每轮读取 OpenAI 官方状态接口，活动故障进入独立“服务状态”小栏，恢复后自动消失，不参与普通新闻排序
 - 如果设置 `DEEPSEEK_API_KEY`，会给每日精选打 persona 分、生成三口味 TOP3 点评、启用标题增强、生成精选条目的真实推荐理由，并给出更可靠的中文翻译（拒答文案和退化输出会自动回退原标题）；不设置时自动降级为规则分、原始标题和谷歌翻译，推荐理由区块不显示，核心流程照样跑
 - 默认 DeepSeek 模型是 `deepseek-v4-flash`（DeepSeek 官方将于 2026-07-24 弃用 `deepseek-chat` 别名），可以设置仓库 Variable `DEEPSEEK_MODEL` 覆盖
 - 如果设置 `TITLE_ENHANCE_MAX_PER_RUN`，会限制每次运行最多改写的标题条数；不设置默认 30

@@ -76,6 +76,13 @@
         </section>
       </header>
 
+      <section
+        class="service-status-panel"
+        id="serviceStatusPanel"
+        aria-live="polite"
+        hidden
+      ></section>
+
       <section class="primary-controls">
         <div class="mode-switch curation-mode-switch" role="group" aria-label="精选/全量切换">
           <button id="modeSelectedBtn" class="mode-btn active" type="button" aria-pressed="true">
@@ -186,6 +193,7 @@
     </template>
 
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js" integrity="sha384-HOvlOYPIs/zjoIkWUGXkVmXsjr8GuZLV+Q+rcPwmJOVZVpvTSXQChiN4t9Euv9Vc" crossorigin="anonymous" defer></script>
+    <script src="./assets/service-status.js?v=service-status-0724a" defer></script>
     <script src="./assets/motion.js?v=aihot-0715b" defer></script>
     <script src="./assets/app.js?v=aihot-0715b" defer></script>
   </body>
