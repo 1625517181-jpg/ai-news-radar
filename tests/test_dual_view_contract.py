@@ -57,11 +57,15 @@ def test_both_pages_share_the_service_status_banner():
     assert 'localStorage.getItem("dataBaseUrl")' in loader
     assert "service-status.json" in loader
     assert 'incident.status !== "resolved"' in loader
+    assert "ChatGPT / OpenAI 服务状态" in loader
+    assert "ChatGPT 等 OpenAI 服务错误率升高" in loader
 
-    for path in ("index.html", "classic/index.html"):
-        source = read(path)
-        assert 'id="serviceStatusPanel"' in source
-        assert "assets/service-status.js" in source
+    mobile_source = read("index.html")
+    classic_source = read("classic/index.html")
+    assert 'id="serviceStatusPanel"' in mobile_source
+    assert 'id="serviceStatusPanel"' in classic_source
+    assert './assets/service-status.js?v=chatgpt-status-0724' in mobile_source
+    assert '../assets/service-status.js?v=chatgpt-status-0724' in classic_source
 
 
 def test_data_fetches_revalidate_without_unique_cache_busters():
