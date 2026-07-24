@@ -1,43 +1,8 @@
 {
-  "generated_at": "2026-07-24T15:05:39.605685Z",
+  "generated_at": "2026-07-24T16:57:22.066868Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 30,
+  "total_events": 19,
   "events": [
-    {
-      "story_id": "story_07a88b0ac09f",
-      "item_id": "2e5cff8cf5193a12a8970434409ce7de8fca8b6b",
-      "merged_into": "story_07a88b0ac09f",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_05efd7103046",
-      "item_id": "25f2282e246f4a2121a9c9ced0e0123d73248b06",
-      "merged_into": "story_05efd7103046",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_05efd7103046",
-      "item_id": "0d201bb086dff3a9b4cb387ad63704dc7c2d9c21",
-      "merged_into": "story_05efd7103046",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_3de870027377",
-      "item_id": "7d67c8e572ca2b1ae0656c842476b49dbdb59bee",
-      "merged_into": "story_3de870027377",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_05efd7103046",
-      "item_id": "eaf597773fca02e1f25545bbb170d4aa03f07baa",
-      "merged_into": "story_05efd7103046",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_d25f89bfff80",
       "item_id": "a65cf5bb450be8261d18d8ea15278cc2e7033827",
@@ -60,44 +25,9 @@
       "similarity": 0.9905
     },
     {
-      "story_id": "story_df34974f46ca",
-      "item_id": "e04b5c670a9f107f1662fcc90faae3d070d78dae",
-      "merged_into": "story_df34974f46ca",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_c5eabf1718d0",
-      "item_id": "33406c53da26ccd5b93e392065d66c1965a25803",
-      "merged_into": "story_c5eabf1718d0",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_05efd7103046",
-      "item_id": "df4341a2bf89b8e935cae92768b4d2dfb0bac712",
-      "merged_into": "story_05efd7103046",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_fe0d014f9482",
-      "item_id": "3afcecc8d9d432a57742b8e7244a9cdd94658e36",
-      "merged_into": "story_fe0d014f9482",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_58bb7e7fe49d",
       "item_id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
       "merged_into": "story_58bb7e7fe49d",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_fe0d014f9482",
-      "item_id": "ff06797603f1f7ecdbad5d863d648def7cc70654",
-      "merged_into": "story_fe0d014f9482",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -113,13 +43,6 @@
       "item_id": "614e8313a5034e8137a211a3fb93f2b56fb10bcb",
       "merged_into": "story_a09e15bebe1d",
       "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_c5eabf1718d0",
-      "item_id": "5f1e507c02638e0d2ac5fe00245c52ee49d562ba",
-      "merged_into": "story_c5eabf1718d0",
-      "reason": "canonical_url",
       "similarity": 1.0
     },
     {
@@ -165,13 +88,6 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_df34974f46ca",
-      "item_id": "ecec80920fbccaba9e32a09b79c12515a6a18079",
-      "merged_into": "story_df34974f46ca",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_6216bbfbb63d",
       "item_id": "1e73dcf1702ad66a2a93e68c39f9f04d540f6c7c",
       "merged_into": "story_6216bbfbb63d",
@@ -197,6 +113,13 @@
       "item_id": "d73bcf38fefe0be6752011736464e521cba156d7",
       "merged_into": "story_57c8776897c0",
       "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_37308b6241d5",
+      "item_id": "efdb65b458ae12396aef1143f5bb760beea79787",
+      "merged_into": "story_37308b6241d5",
+      "reason": "canonical_url",
       "similarity": 1.0
     },
     {

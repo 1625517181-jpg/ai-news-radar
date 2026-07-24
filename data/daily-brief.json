@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:05:39.605685Z",
+  "generated_at": "2026-07-24T16:57:22.066868Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8753,
-      "importance": 0.8753,
-      "importance_score": 0.8753,
+      "score": 0.8709,
+      "importance": 0.8709,
+      "importance_score": 0.8709,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9017,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,7 +199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7874,
+        "recency": 0.7665,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,7 +282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -330,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9796,
+        "recency": 0.9536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,7 +364,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -412,15 +412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7568,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -447,7 +447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -524,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9265,
+        "recency": 0.9019,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -559,7 +559,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -607,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9797,
+        "recency": 0.9537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,7 +641,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
+      }
+    },
+    {
+      "story_id": "story_e6faf39224d8",
+      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "primary_url": "https://www.anthropic.com/research/project-pilot",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "title_en": "Project Pilot： Can AI control a drone？",
+          "title_original": "Project Pilot： Can AI control a drone？",
+          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/project-pilot",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45.300000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "title_en": "Project Pilot： Can AI control a drone？",
+          "title_original": "Project Pilot： Can AI control a drone？",
+          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/project-pilot",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45.300000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9782,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T15:25:45.300000Z",
+      "latest_at": "2026-07-24T15:25:45.300000Z",
+      "primary_item": {
+        "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+        "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+        "title_en": "Project Pilot： Can AI control a drone？",
+        "title_original": "Project Pilot： Can AI control a drone？",
+        "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/project-pilot",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -689,15 +771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9768,
+        "recency": 0.9508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,7 +805,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -749,7 +831,7 @@
           "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "0ee2e4b563ccc64d2b679ce830f9890b7a015ee5",
+          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
           "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
           "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
@@ -757,15 +839,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T09:31:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -784,7 +866,7 @@
           "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "0ee2e4b563ccc64d2b679ce830f9890b7a015ee5",
+          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
           "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
           "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
@@ -792,23 +874,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T09:31:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9553,
+        "recency": 0.93,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -835,7 +917,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -883,15 +965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.9127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,89 +999,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
-      }
-    },
-    {
-      "story_id": "story_31e9766f60d4",
-      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-      "url": "https://www.ithome.com/0/981/137.htm",
-      "primary_url": "https://www.ithome.com/0/981/137.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "title_en": null,
-          "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/137.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T06:48:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "title_en": null,
-          "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/137.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T06:48:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8871,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T06:48:04Z",
-      "latest_at": "2026-07-24T06:48:04Z",
-      "primary_item": {
-        "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-        "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-        "title_en": null,
-        "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-        "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/981/137.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1047,15 +1047,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7661,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1082,7 +1082,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
+      }
+    },
+    {
+      "story_id": "story_31e9766f60d4",
+      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+      "url": "https://www.ithome.com/0/981/137.htm",
+      "primary_url": "https://www.ithome.com/0/981/137.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "title_en": null,
+          "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T06:48:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "title_en": null,
+          "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T06:48:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8636,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T06:48:04Z",
+      "latest_at": "2026-07-24T06:48:04Z",
+      "primary_item": {
+        "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "title_en": null,
+        "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/981/137.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1130,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1163,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1211,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7559,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1244,7 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1292,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7582,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,7 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1373,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.9127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1407,7 +1488,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1455,15 +1536,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7985,
+        "recency": 0.7773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1488,7 +1569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1536,15 +1617,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7408,
+        "recency": 0.7212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1571,7 +1652,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1619,15 +1700,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.9127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1653,7 +1734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     },
     {
@@ -1730,22 +1811,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7611,
+        "recency": 0.7409,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T20:11:31.906000Z",
       "latest_at": "2026-07-23T20:11:31.906000Z",
@@ -1765,90 +1845,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
-      }
-    },
-    {
-      "story_id": "story_1650bfbff40b",
-      "title": "GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview",
-          "title_zh": "GitHub Issues 中的 Agent 自动化控件进入公开预览",
-          "title_en": "Agent automation controls in GitHub Issues in public preview",
-          "title_original": "Agent automation controls in GitHub Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview",
-          "title_zh": "GitHub Issues 中的 Agent 自动化控件进入公开预览",
-          "title_en": "Agent automation controls in GitHub Issues in public preview",
-          "title_original": "Agent automation controls in GitHub Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7113,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T15:30:29Z",
-      "latest_at": "2026-07-23T15:30:29Z",
-      "primary_item": {
-        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-        "title": "GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview",
-        "title_zh": "GitHub Issues 中的 Agent 自动化控件进入公开预览",
-        "title_en": "Agent automation controls in GitHub Issues in public preview",
-        "title_original": "Agent automation controls in GitHub Issues in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:06:27.701491Z"
+        "scored_at": "2026-07-24T16:58:25.980222Z"
       }
     }
   ]
