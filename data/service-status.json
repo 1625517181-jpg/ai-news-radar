@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-25T21:08:45.448452Z",
+  "generated_at": "2026-07-25T22:09:44.042405Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01KYDN6YPS6ARY1EC9089N089G",
+      "provider": "OpenAI",
+      "title": "Elevated errors affecting ChatGPT conversations",
+      "title_zh": "ChatGPT conversations 错误率升高",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-07-25T22:09:27Z",
+      "updated_at": "2026-07-25T22:09:27Z",
+      "message": "We are investigating intermittent errors that may prevent some users from loading or continuing conversations in ChatGPT. The current period of impact began around 1:00 PM PT.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01KYDN6YPS6ARY1EC9089N089G"
+    }
+  ]
 }
