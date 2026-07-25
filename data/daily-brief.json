@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T22:09:44.042405Z",
+  "generated_at": "2026-07-25T23:11:59.415938Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_74755d9d6ce9",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8858,
+        "recency": 0.8726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:10:36.376544Z"
+        "scored_at": "2026-07-25T23:12:41.605084Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7382,
+        "recency": 0.7273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,117 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:10:36.376544Z"
-      }
-    },
-    {
-      "story_id": "story_235ac79d72af",
-      "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
-      "primary_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b6f506425377fb63fd2a02aa987adb5a5dc9b949",
-          "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "title_zh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
-          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T22:25:58Z"
-        },
-        {
-          "id": "54d94f9c7ccc5826d80ff42e7406415da68416f5",
-          "title": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-          "title_zh": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
-          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T22:25:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "b6f506425377fb63fd2a02aa987adb5a5dc9b949",
-          "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "title_zh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
-          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T22:25:58Z"
-        },
-        {
-          "id": "54d94f9c7ccc5826d80ff42e7406415da68416f5",
-          "title": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-          "title_zh": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
-          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T22:25:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5965,
-      "importance": 0.5965,
-      "importance_score": 0.5965,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7099,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T22:25:58Z",
-      "latest_at": "2026-07-24T22:25:58Z",
-      "primary_item": {
-        "id": "b6f506425377fb63fd2a02aa987adb5a5dc9b949",
-        "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "title_zh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
-        "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:10:36.376544Z"
+        "scored_at": "2026-07-25T23:12:41.605084Z"
       }
     },
     {
@@ -408,15 +298,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5887,
-      "importance": 0.5887,
-      "importance_score": 0.5887,
+      "score": 0.5861,
+      "importance": 0.5861,
+      "importance_score": 0.5861,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9606,
+        "recency": 0.9463,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -441,7 +331,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:10:36.376544Z"
+        "scored_at": "2026-07-25T23:12:41.605084Z"
+      }
+    },
+    {
+      "story_id": "story_b90b03f133ee",
+      "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+      "url": "https://news.ycombinator.com/item?id=49050859",
+      "primary_url": "https://news.ycombinator.com/item?id=49050859",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:12:18.729000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:12:18.729000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T19:44:39Z",
+      "latest_at": "2026-07-25T23:12:18.729000Z",
+      "primary_item": {
+        "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+        "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+        "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+        "title_en": "General Resolution: LLM Usage in Debian",
+        "title_original": "General Resolution: LLM Usage in Debian",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49050859",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T23:12:41.605084Z"
+      }
+    },
+    {
+      "story_id": "story_fd83d61e5894",
+      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://news.ycombinator.com/item?id=49050512",
+      "primary_url": "https://news.ycombinator.com/item?id=49050512",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:12:18.729000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:12:18.729000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-25T23:12:18.729000Z",
+      "primary_item": {
+        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+        "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+        "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49050512",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T23:12:41.605084Z"
       }
     },
     {
@@ -518,15 +628,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9961,
+        "recency": 0.9813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -551,7 +661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:10:36.376544Z"
+        "scored_at": "2026-07-25T23:12:41.605084Z"
       }
     },
     {
@@ -628,15 +738,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9961,
+        "recency": 0.9813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -661,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:10:36.376544Z"
+        "scored_at": "2026-07-25T23:12:41.605084Z"
       }
     },
     {
@@ -687,7 +797,7 @@
           "published_at": "2026-07-25T17:52:19.298000Z"
         },
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "title_zh": "政客在集会期间阅读人工智能提示",
           "title_en": "Politician reads AI prompt during assembly",
@@ -695,15 +805,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -722,7 +832,7 @@
           "published_at": "2026-07-25T17:52:19.298000Z"
         },
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "title_zh": "政客在集会期间阅读人工智能提示",
           "title_en": "Politician reads AI prompt during assembly",
@@ -730,23 +840,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9399,
+        "recency": 0.9259,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -771,7 +881,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:10:36.376544Z"
+        "scored_at": "2026-07-25T23:12:41.605084Z"
       }
     },
     {
@@ -848,15 +958,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8871,
+        "recency": 0.8739,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -881,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:10:36.376544Z"
+        "scored_at": "2026-07-25T23:12:41.605084Z"
       }
     }
   ]
