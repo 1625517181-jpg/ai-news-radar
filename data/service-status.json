@@ -1,30 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-27T20:42:44.471261Z",
+  "generated_at": "2026-07-27T22:17:41.611373Z",
   "ok": true,
-  "active_count": 1,
+  "active_count": 0,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 1
+      "active_count": 0
     }
   ],
-  "incidents": [
-    {
-      "id": "01KYJC3TDHZVSQFFPTC8X9RAHC",
-      "provider": "OpenAI",
-      "title": "We’re seeing elevated latency, timeouts, and interrupted streaming across gpt 5.1 mini model and gpt 4.1 mini",
-      "title_zh": "We’re seeing elevated latency, timeouts, and interrupted streaming across gpt 5.1 mini model and gpt 4.1 mini",
-      "status": "investigating",
-      "impact": "minor",
-      "started_at": "2026-07-27T18:06:39Z",
-      "updated_at": "2026-07-27T18:06:39Z",
-      "message": "We are investigating the issue for the listed services.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01KYJC3TDHZVSQFFPTC8X9RAHC"
-    }
-  ]
+  "incidents": []
 }
