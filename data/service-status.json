@@ -1,31 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-27T18:46:43.409082Z",
+  "generated_at": "2026-07-27T20:42:44.471261Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 1
     }
   ],
   "incidents": [
-    {
-      "id": "01KY23YCPJ9M5BFFT6ZHKQE9MP",
-      "provider": "OpenAI",
-      "title": "Image generation unavailable in ChatGPT",
-      "title_zh": "Image generation unavailable in ChatGPT",
-      "status": "investigating",
-      "impact": "major",
-      "started_at": "2026-07-21T10:36:02Z",
-      "updated_at": "2026-07-27T16:52:41Z",
-      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01KY23YCPJ9M5BFFT6ZHKQE9MP"
-    },
     {
       "id": "01KYJC3TDHZVSQFFPTC8X9RAHC",
       "provider": "OpenAI",
