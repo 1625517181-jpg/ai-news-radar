@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-27T15:13:05.265111Z",
+  "generated_at": "2026-07-27T17:08:34.726625Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 1
     }
   ],
   "incidents": [
@@ -21,23 +21,10 @@
       "status": "investigating",
       "impact": "major",
       "started_at": "2026-07-21T10:36:02Z",
-      "updated_at": "2026-07-27T14:04:55Z",
+      "updated_at": "2026-07-27T16:52:41Z",
       "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01KY23YCPJ9M5BFFT6ZHKQE9MP"
-    },
-    {
-      "id": "01KYDN6YPS6ARY1EC9089N089G",
-      "provider": "OpenAI",
-      "title": "Elevated errors affecting ChatGPT conversations",
-      "title_zh": "ChatGPT conversations 错误率升高",
-      "status": "monitoring",
-      "impact": "minor",
-      "started_at": "2026-07-25T22:09:27Z",
-      "updated_at": "2026-07-25T23:57:40Z",
-      "message": "Mitigation has been implemented, and we are monitoring the recovery of ChatGPT conversations.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01KYDN6YPS6ARY1EC9089N089G"
     }
   ]
 }
