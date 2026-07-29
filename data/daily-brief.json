@@ -1,8 +1,340 @@
 {
-  "generated_at": "2026-07-29T15:18:59.607273Z",
+  "generated_at": "2026-07-29T17:38:02.635338Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_8e9a39b56823",
+      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+          "title_en": "Default model enablement for Copilot Business and Enterprise",
+          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T14:01:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+          "title_en": "Default model enablement for Copilot Business and Enterprise",
+          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T14:01:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9491,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T14:01:07Z",
+      "latest_at": "2026-07-29T14:01:07Z",
+      "primary_item": {
+        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+        "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+        "title_en": "Default model enablement for Copilot Business and Enterprise",
+        "title_original": "Default model enablement for Copilot Business and Enterprise",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T17:38:50.008473Z"
+      }
+    },
+    {
+      "story_id": "story_70e050c45970",
+      "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "title_zh": "通过 ChatGPT 为学术研究人员加速科学发现",
+          "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "title_zh": "通过 ChatGPT 为学术研究人员加速科学发现",
+          "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8956,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:00:00Z",
+      "latest_at": "2026-07-29T10:00:00Z",
+      "primary_item": {
+        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+        "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "title_zh": "通过 ChatGPT 为学术研究人员加速科学发现",
+        "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T17:38:50.008473Z"
+      }
+    },
+    {
+      "story_id": "story_a9f249526c20",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "primary_url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "title_zh": null,
+          "title_en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "title_original": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T16:02:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "title_zh": null,
+          "title_en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "title_original": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T16:02:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9772,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T16:02:10Z",
+      "latest_at": "2026-07-29T16:02:10Z",
+      "primary_item": {
+        "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+        "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "title_zh": null,
+        "title_en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "title_original": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T17:38:50.008473Z"
+      }
+    },
+    {
+      "story_id": "story_c13bb8dc3de1",
+      "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+          "title_zh": "使用 ChatGPT（测试版）登录",
+          "title_en": "Sign in with ChatGPT (beta)",
+          "title_original": "Sign in with ChatGPT (beta)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+          "title_zh": "使用 ChatGPT（测试版）登录",
+          "title_en": "Sign in with ChatGPT (beta)",
+          "title_original": "Sign in with ChatGPT (beta)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7752,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
+      "primary_item": {
+        "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+        "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+        "title_zh": "使用 ChatGPT（测试版）登录",
+        "title_en": "Sign in with ChatGPT (beta)",
+        "title_original": "Sign in with ChatGPT (beta)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T17:38:50.008473Z"
+      }
+    },
     {
       "story_id": "story_662891d3b0ba",
       "title": "Codex CLI 0.146.0",
@@ -48,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8016,
+        "recency": 0.7752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -131,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9228,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,316 +498,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
-      "story_id": "story_71077999e62f",
-      "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "primary_url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_3a391e5248cc",
+      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+      "primary_url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "095806aaf687656a24379222198efda373b88fe4",
-          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-          "title_zh": "代理人工智能时代的科学计算",
-          "title_en": "Scientific computing in the age of agentic AI",
-          "title_original": "Scientific computing in the age of agentic AI",
-          "summary": null,
+          "id": "520109bab60f838de978be96179993ff0f5cbced",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+          "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+          "title_original": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+          "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scientific-computing-agentic-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T17:00:00Z"
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:35:09Z"
         },
         {
-          "id": "bf7e96558104ca1bea86d92f623144cbd88bf278",
-          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-          "title_zh": "代理人工智能时代的科学计算",
-          "title_en": "Scientific computing in the age of agentic AI",
-          "title_original": "Scientific computing in the age of agentic AI",
+          "id": "7bb434c6b856e786c2594ed925b5886746bd9719",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+          "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "title_en": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+          "title_original": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49086987",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T18:35:34.482000Z"
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-29T15:35:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "hackernews"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "095806aaf687656a24379222198efda373b88fe4",
-          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-          "title_zh": "代理人工智能时代的科学计算",
-          "title_en": "Scientific computing in the age of agentic AI",
-          "title_original": "Scientific computing in the age of agentic AI",
-          "summary": null,
+          "id": "520109bab60f838de978be96179993ff0f5cbced",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+          "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+          "title_original": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+          "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scientific-computing-agentic-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T17:00:00Z"
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:35:09Z"
         },
         {
-          "id": "bf7e96558104ca1bea86d92f623144cbd88bf278",
-          "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-          "title_zh": "代理人工智能时代的科学计算",
-          "title_en": "Scientific computing in the age of agentic AI",
-          "title_original": "Scientific computing in the age of agentic AI",
+          "id": "7bb434c6b856e786c2594ed925b5886746bd9719",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+          "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "title_en": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+          "title_original": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49086987",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T18:35:34.482000Z"
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-29T15:35:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
-      "importance_label": "官方更新",
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7245,
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9709,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T17:00:00Z",
-      "latest_at": "2026-07-28T18:35:34.482000Z",
+      "earliest_at": "2026-07-29T15:35:09Z",
+      "latest_at": "2026-07-29T15:35:09Z",
       "primary_item": {
-        "id": "095806aaf687656a24379222198efda373b88fe4",
-        "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
-        "title_zh": "代理人工智能时代的科学计算",
-        "title_en": "Scientific computing in the age of agentic AI",
-        "title_original": "Scientific computing in the age of agentic AI",
-        "summary": null,
+        "id": "520109bab60f838de978be96179993ff0f5cbced",
+        "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+        "title_zh": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+        "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+        "title_original": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+        "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/scientific-computing-agentic-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
-      }
-    },
-    {
-      "story_id": "story_c1632a302b6e",
-      "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "title_zh": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
-          "title_en": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "title_original": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        },
-        {
-          "id": "2d317650ad850459dee0f3e6e32c83397e558023",
-          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents： 3.6 Flash， hooks， and more",
-          "title_zh": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
-          "title_en": "Gemini API Managed Agents： 3.6 Flash， hooks， and more",
-          "title_original": "Gemini API Managed Agents： 3.6 Flash， hooks， and more",
-          "summary": "Google DeepMind 将 Gemini API Managed Agents 的默认模型升级为 Gemini 3.6 Flash，并支持显式选择 3.5 Flash 或 3.5 Flash-Lite。新增环境钩子允许在沙箱内工具调用前后执行自定义脚本，用于安全审查或代码格式化。此外，还推出了免费套餐、预算控制和基于 cron 的定时触发功能。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "title_zh": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
-          "title_en": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "title_original": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        },
-        {
-          "id": "2d317650ad850459dee0f3e6e32c83397e558023",
-          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents： 3.6 Flash， hooks， and more",
-          "title_zh": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
-          "title_en": "Gemini API Managed Agents： 3.6 Flash， hooks， and more",
-          "title_original": "Gemini API Managed Agents： 3.6 Flash， hooks， and more",
-          "summary": "Google DeepMind 将 Gemini API Managed Agents 的默认模型升级为 Gemini 3.6 Flash，并支持显式选择 3.5 Flash 或 3.5 Flash-Lite。新增环境钩子允许在沙箱内工具调用前后执行自定义脚本，用于安全审查或代码格式化。此外，还推出了免费套餐、预算控制和基于 cron 的定时触发功能。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7141,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T16:00:00Z",
-      "latest_at": "2026-07-28T16:00:00Z",
-      "primary_item": {
-        "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-        "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-        "title_zh": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
-        "title_en": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-        "title_original": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
-      }
-    },
-    {
-      "story_id": "story_1697eebb2a9d",
-      "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
-          "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:27:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
-          "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:27:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7189,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T16:27:42Z",
-      "latest_at": "2026-07-28T16:27:42Z",
-      "primary_item": {
-        "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-        "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-        "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
-        "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-        "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -552,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -587,90 +722,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
-      "story_id": "story_d26d09267b84",
-      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b76147d8f088",
+      "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "primary_url": "https://github.com/drumih/turbo-fieldfare",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
-          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
-          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
-          "summary": null,
+          "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
+          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+          "title_zh": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+          "title_en": null,
+          "title_original": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+          "summary": "一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:09:22.496000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
-          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
-          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
-          "summary": null,
+          "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
+          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+          "title_zh": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+          "title_en": null,
+          "title_original": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+          "summary": "一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:09:22.496000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
-      "importance_label": "官方更新",
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7968,
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9789,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T23:35:01Z",
-      "latest_at": "2026-07-28T23:35:01Z",
+      "earliest_at": "2026-07-29T16:09:22.496000Z",
+      "latest_at": "2026-07-29T16:09:22.496000Z",
       "primary_item": {
-        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-        "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
-        "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
-        "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
-        "summary": null,
+        "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
+        "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+        "title_zh": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+        "title_en": null,
+        "title_original": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+        "summary": "一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://github.com/drumih/turbo-fieldfare",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -718,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9634,
+        "recency": 0.9317,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -752,7 +886,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
+      }
+    },
+    {
+      "story_id": "story_bfae1ca34e04",
+      "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+      "primary_url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
+          "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
+          "title_zh": "算力价格未来可能上涨 10 倍以上",
+          "title_en": "Why compute might get 10x+ more expensive in coming years",
+          "title_original": "Why compute might get 10x+ more expensive in coming years",
+          "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:01:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
+          "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
+          "title_zh": "算力价格未来可能上涨 10 倍以上",
+          "title_en": "Why compute might get 10x+ more expensive in coming years",
+          "title_original": "Why compute might get 10x+ more expensive in coming years",
+          "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:01:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.963,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T15:01:35Z",
+      "latest_at": "2026-07-29T15:01:35Z",
+      "primary_item": {
+        "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
+        "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
+        "title_zh": "算力价格未来可能上涨 10 倍以上",
+        "title_en": "Why compute might get 10x+ more expensive in coming years",
+        "title_original": "Why compute might get 10x+ more expensive in coming years",
+        "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -800,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9579,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -834,7 +1050,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -882,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9561,
+        "recency": 0.9246,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -916,7 +1132,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -964,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7616,
+        "recency": 0.7365,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,30 +1214,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
-      "story_id": "story_bc76c2ce852e",
-      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "story_id": "story_d26d09267b84",
+      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-          "title_en": "Grok 4.5 is now available in GitHub Copilot",
-          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "source_count": 1,
@@ -1030,31 +1246,31 @@
       ],
       "items": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-          "title_en": "Grok 4.5 is now available in GitHub Copilot",
-          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7477,
+        "ai_relevance": 0.91,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1063,17 +1279,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T19:10:45Z",
-      "latest_at": "2026-07-28T19:10:45Z",
+      "earliest_at": "2026-07-28T23:35:01Z",
+      "latest_at": "2026-07-28T23:35:01Z",
       "primary_item": {
-        "id": "de1bf241fb515307bdd91a342754207be883cea2",
-        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-        "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-        "title_en": "Grok 4.5 is now available in GitHub Copilot",
-        "title_original": "Grok 4.5 is now available in GitHub Copilot",
+        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+        "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+        "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+        "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1081,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -1129,21 +1345,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7615,
+        "recency": 0.7364,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T20:26:58Z",
       "latest_at": "2026-07-28T20:26:58Z",
@@ -1163,88 +1378,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
-      }
-    },
-    {
-      "story_id": "story_a140b8d566f7",
-      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-      "url": "https://github.com/gavamedia/deltafin",
-      "primary_url": "https://github.com/gavamedia/deltafin",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
-          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "title_en": null,
-          "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/gavamedia/deltafin",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T02:49:20.833000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
-          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "title_en": null,
-          "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/gavamedia/deltafin",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T02:49:20.833000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8349,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T02:49:20.833000Z",
-      "latest_at": "2026-07-29T02:49:20.833000Z",
-      "primary_item": {
-        "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
-        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-        "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-        "title_en": null,
-        "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-        "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/gavamedia/deltafin",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -1292,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7912,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,7 +1459,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -1373,15 +1507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7602,
+        "recency": 0.7352,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1406,7 +1540,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -1454,15 +1588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.748,
+        "recency": 0.7234,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1487,7 +1621,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     },
     {
@@ -1535,15 +1669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7779,
+        "recency": 0.7523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1568,170 +1702,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
-      }
-    },
-    {
-      "story_id": "story_98693ee77dfa",
-      "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-      "primary_url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
-          "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
-          "title_zh": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
-          "title_en": "Sam Altman is ready to decelerate",
-          "title_original": "Sam Altman is ready to decelerate",
-          "summary": "OpenAI CEO Sam Altman 表示，可能需要\"调整\"AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次\"切身感受到\"安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:17:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
-          "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
-          "title_zh": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
-          "title_en": "Sam Altman is ready to decelerate",
-          "title_original": "Sam Altman is ready to decelerate",
-          "summary": "OpenAI CEO Sam Altman 表示，可能需要\"调整\"AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次\"切身感受到\"安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:17:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7597,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T20:17:08Z",
-      "latest_at": "2026-07-28T20:17:08Z",
-      "primary_item": {
-        "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
-        "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
-        "title_zh": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
-        "title_en": "Sam Altman is ready to decelerate",
-        "title_original": "Sam Altman is ready to decelerate",
-        "summary": "OpenAI CEO Sam Altman 表示，可能需要\"调整\"AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次\"切身感受到\"安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
-      }
-    },
-    {
-      "story_id": "story_70485a715d6d",
-      "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-      "url": "https://www.aibase.com/news/29984",
-      "primary_url": "https://www.aibase.com/news/29984",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
-          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-          "title_zh": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-          "title_en": null,
-          "title_original": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29984",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T12:20:24.413892Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
-          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-          "title_zh": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-          "title_en": null,
-          "title_original": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29984",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T12:20:24.413892Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9579,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T12:20:24.413892Z",
-      "latest_at": "2026-07-29T12:20:24.413892Z",
-      "primary_item": {
-        "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
-        "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-        "title_zh": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-        "title_en": null,
-        "title_original": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29984",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T15:19:49.807603Z"
+        "scored_at": "2026-07-29T17:38:50.008473Z"
       }
     }
   ]
