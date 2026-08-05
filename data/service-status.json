@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-05T18:51:12.544760Z",
+  "generated_at": "2026-08-05T20:39:06.025799Z",
   "ok": true,
-  "active_count": 3,
+  "active_count": 2,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 3
+      "active_count": 2
     }
   ],
   "incidents": [
@@ -18,26 +18,13 @@
       "provider": "OpenAI",
       "title": "Issues with Custom GPT actions",
       "title_zh": "Custom GPT actions 出现问题",
-      "status": "identified",
-      "impact": "minor",
-      "started_at": "2026-08-05T16:55:54Z",
-      "updated_at": "2026-08-05T18:28:00Z",
-      "message": "We are still implementing the mitigation.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01KZ9DMQD2GJ8JJWDN7572RH78"
-    },
-    {
-      "id": "01KZ9E7QD8WFJD5DMF73QGVYH8",
-      "provider": "OpenAI",
-      "title": "Elevated errors in ChatGPT conversations with files",
-      "title_zh": "ChatGPT conversations with files 错误率升高",
       "status": "monitoring",
       "impact": "minor",
-      "started_at": "2026-08-05T17:06:16Z",
-      "updated_at": "2026-08-05T17:06:16Z",
-      "message": "Error rates affecting ChatGPT conversations that use files and images have improved. We have applied the mitigation and are monitoring the recovery.",
+      "started_at": "2026-08-05T16:55:54Z",
+      "updated_at": "2026-08-05T19:03:27Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01KZ9E7QD8WFJD5DMF73QGVYH8"
+      "url": "https://status.openai.com/incidents/01KZ9DMQD2GJ8JJWDN7572RH78"
     },
     {
       "id": "01KZ96S5HEWX0CX26W2WFYFKE6",
