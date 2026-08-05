@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-05T14:36:15.627968Z",
+  "generated_at": "2026-08-05T16:52:49.416594Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01KZ96S5HEWX0CX26W2WFYFKE6",
+      "provider": "OpenAI",
+      "title": "Elevated errors with image generation",
+      "title_zh": "Elevated errors with image generation",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-08-05T14:55:59Z",
+      "updated_at": "2026-08-05T15:28:25Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01KZ96S5HEWX0CX26W2WFYFKE6"
+    }
+  ]
 }
