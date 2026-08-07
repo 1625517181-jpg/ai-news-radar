@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-06T12:18:57.684513Z",
+  "generated_at": "2026-08-07T00:15:20.920018Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01KZCQVWTCG3ZDV34F15WT7ASB",
+      "provider": "OpenAI",
+      "title": "Computer use errors in the ChatGPT desktop app",
+      "title_zh": "Computer use errors in the ChatGPT desktop app",
+      "status": "identified",
+      "impact": "none",
+      "started_at": "2026-08-06T23:52:17Z",
+      "updated_at": "2026-08-06T23:52:17Z",
+      "message": "We have identified that some users may be experiencing issues with computer use in the latest ChatGPT desktop app update. We are working on implementing a mitigation.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01KZCQVWTCG3ZDV34F15WT7ASB"
+    }
+  ]
 }
