@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T13:43:04.829655Z",
+  "generated_at": "2026-08-10T15:16:26.417436Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01KZNZTPWMV06Z6TQNMY1R1QDR",
+      "provider": "OpenAI",
+      "title": "Increased error rates",
+      "title_zh": "Increased error rates",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-08-10T14:04:37Z",
+      "updated_at": "2026-08-10T15:07:54Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01KZNZTPWMV06Z6TQNMY1R1QDR"
+    }
+  ]
 }
