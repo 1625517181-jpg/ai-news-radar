@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T21:02:01.375052Z",
+  "generated_at": "2026-08-13T22:02:29.047027Z",
   "ok": true,
   "active_count": 2,
   "providers": [
@@ -31,11 +31,11 @@
       "provider": "OpenAI",
       "title": "Error while creating custom RBAC roles for Enterprise users",
       "title_zh": "Error while creating custom RBAC roles for Enterprise users",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "none",
       "started_at": "2026-08-13T14:03:49Z",
-      "updated_at": "2026-08-13T18:48:44Z",
-      "message": "We are continuing to implement the mitigation",
+      "updated_at": "2026-08-13T21:25:28Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01KZXPZD4KHMQQFF09PSNNEZT8"
     }
