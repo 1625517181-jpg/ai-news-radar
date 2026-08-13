@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T16:10:36.364256Z",
+  "generated_at": "2026-08-13T17:11:36.533194Z",
   "ok": true,
   "active_count": 2,
   "providers": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "Elevated errors in ChatGPT conversations for Free users",
       "title_zh": "ChatGPT conversations for Free users 错误率升高",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-08-13T15:19:50Z",
-      "updated_at": "2026-08-13T15:48:21Z",
-      "message": "We are still implementing the mitigation.",
+      "updated_at": "2026-08-13T16:54:25Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01KZXVAJQ5XFH7PTM43XVPQWGJ"
     },
