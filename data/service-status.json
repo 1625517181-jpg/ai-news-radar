@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-14T21:40:25.454534Z",
+  "generated_at": "2026-08-14T22:40:17.457735Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M015X5NF9D6C4MYR6NGR8HAR",
+      "provider": "OpenAI",
+      "title": "Unexpected GPT-5.6 Terra responses",
+      "title_zh": "Unexpected GPT-5.6 Terra responses",
+      "status": "identified",
+      "impact": "minor",
+      "started_at": "2026-08-14T22:22:28Z",
+      "updated_at": "2026-08-14T22:22:28Z",
+      "message": "We are investigating an issue affecting some customers using GPT-5.6 Terra. Affected requests may intermittently return incomplete or malformed responses, or include unexpected content. We are working on implementing a mitigation.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M015X5NF9D6C4MYR6NGR8HAR"
+    }
+  ]
 }
