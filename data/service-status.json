@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T16:50:01.537287Z",
+  "generated_at": "2026-08-20T17:45:05.831152Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -14,17 +14,17 @@
   ],
   "incidents": [
     {
-      "id": "01M0FQAR3NNH3ANVTQMBRD47DC",
+      "id": "01M0G1RZER839AZXWMYKSZF3GR",
       "provider": "OpenAI",
-      "title": "Elevated Errors for Thinking mode in ChatGPT",
-      "title_zh": "Elevated Errors for Thinking mode in ChatGPT",
+      "title": "Elevated Codex API authentication errors",
+      "title_zh": "Elevated Codex API authentication errors",
       "status": "monitoring",
       "impact": "minor",
-      "started_at": "2026-08-20T13:56:21Z",
-      "updated_at": "2026-08-20T14:53:57Z",
-      "message": "We have implemented a mitigation for the issue for elevated errors for Thinking Mode and Image Generation in ChatGPT/ChatGPT Work",
+      "started_at": "2026-08-20T16:58:53Z",
+      "updated_at": "2026-08-20T17:15:51Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M0FQAR3NNH3ANVTQMBRD47DC"
+      "url": "https://status.openai.com/incidents/01M0G1RZER839AZXWMYKSZF3GR"
     }
   ]
 }
