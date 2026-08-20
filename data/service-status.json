@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T13:10:17.033777Z",
+  "generated_at": "2026-08-20T13:58:51.828220Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M0FQAR3NNH3ANVTQMBRD47DC",
+      "provider": "OpenAI",
+      "title": "Elevated Errors for Thinking mode in ChatGPT",
+      "title_zh": "Elevated Errors for Thinking mode in ChatGPT",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-08-20T13:56:21Z",
+      "updated_at": "2026-08-20T13:56:21Z",
+      "message": "We are investigating an issue causing some users to experience errors when using Thinking in ChatGPT.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M0FQAR3NNH3ANVTQMBRD47DC"
+    }
+  ]
 }
