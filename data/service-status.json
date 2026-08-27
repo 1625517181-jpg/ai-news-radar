@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-27T09:47:17.047895Z",
+  "generated_at": "2026-08-27T20:29:55.303065Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M1263309PD7VYV8EF95W2M2P",
+      "provider": "OpenAI",
+      "title": "Users may experience an increase in error rates in Workspace Agents and ChatGPT Work on Web and Mobile",
+      "title_zh": "Users may experience an increase in error rates in Workspace Agents and ChatGPT Work on Web and Mobile",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-08-27T18:00:38Z",
+      "updated_at": "2026-08-27T19:07:24Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M1263309PD7VYV8EF95W2M2P"
+    }
+  ]
 }
