@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T20:04:11.499837Z",
+  "generated_at": "2026-08-31T23:50:40.101482Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -14,17 +14,17 @@
   ],
   "incidents": [
     {
-      "id": "01M1C5M4K0WC8PPT0Z175RJA1E",
+      "id": "01M1CYZDD84XD0H56XNEV2PT98",
       "provider": "OpenAI",
-      "title": "ChatGPT Work seeing elevated errors and latency",
-      "title_zh": "ChatGPT Work seeing elevated errors and latency",
+      "title": "Elevated latency in the Responses API",
+      "title_zh": "Elevated latency in the Responses API",
       "status": "monitoring",
-      "impact": "major",
-      "started_at": "2026-08-31T15:04:53Z",
-      "updated_at": "2026-08-31T20:01:16Z",
+      "impact": "minor",
+      "started_at": "2026-08-31T22:27:56Z",
+      "updated_at": "2026-08-31T23:13:47Z",
       "message": "We have applied a mitigation and are monitoring recovery.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M1C5M4K0WC8PPT0Z175RJA1E"
+      "url": "https://status.openai.com/incidents/01M1CYZDD84XD0H56XNEV2PT98"
     }
   ]
 }
