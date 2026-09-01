@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T23:50:40.101482Z",
+  "generated_at": "2026-09-01T05:07:05.750569Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -21,8 +21,8 @@
       "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-08-31T22:27:56Z",
-      "updated_at": "2026-08-31T23:13:47Z",
-      "message": "We have applied a mitigation and are monitoring recovery.",
+      "updated_at": "2026-09-01T01:46:22Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M1CYZDD84XD0H56XNEV2PT98"
     }
