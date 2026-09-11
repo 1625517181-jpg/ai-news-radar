@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T16:27:55.192138Z",
+  "generated_at": "2026-09-11T19:42:57.536323Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -16,13 +16,13 @@
     {
       "id": "01M28MEQWTQJDRCRPFD9FWQ0H3",
       "provider": "OpenAI",
-      "title": "1% of ChatGPT Work (mobile/web) turns are failing",
-      "title_zh": "1% of ChatGPT Work (mobile/web) turns are failing",
+      "title": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads",
+      "title_zh": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads",
       "status": "investigating",
       "impact": "minor",
       "started_at": "2026-09-11T16:22:49Z",
-      "updated_at": "2026-09-11T16:22:49Z",
-      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "updated_at": "2026-09-11T17:17:35Z",
+      "message": "We are investigating the issue for the listed services.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
     }
