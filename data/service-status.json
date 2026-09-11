@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T11:20:09.746592Z",
+  "generated_at": "2026-09-11T16:27:55.192138Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -14,17 +14,17 @@
   ],
   "incidents": [
     {
-      "id": "01M27VK1VN54RQJGJEHB5JTQJJ",
+      "id": "01M28MEQWTQJDRCRPFD9FWQ0H3",
       "provider": "OpenAI",
-      "title": "Elevated errors for GPT-5.6 Sol on the API",
-      "title_zh": "Elevated errors for GPT-5.6 Sol on the API",
-      "status": "monitoring",
+      "title": "1% of ChatGPT Work (mobile/web) turns are failing",
+      "title_zh": "1% of ChatGPT Work (mobile/web) turns are failing",
+      "status": "investigating",
       "impact": "minor",
-      "started_at": "2026-09-11T09:08:15Z",
-      "updated_at": "2026-09-11T10:09:47Z",
-      "message": "We have brought additional capacity online and are seeing improvements for some GPT-5.6 Sol API traffic. We continue to mitigate elevated errors affecting Chat Completions and Responses and are monitoring recovery",
+      "started_at": "2026-09-11T16:22:49Z",
+      "updated_at": "2026-09-11T16:22:49Z",
+      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ"
+      "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
     }
   ]
 }
