@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:46:46.718558Z",
+  "generated_at": "2026-09-12T10:45:06.617238Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T05:46:46.718558Z",
-      "latest_at": "2026-09-12T05:46:46.718558Z",
+      "earliest_at": "2026-09-12T10:45:06.617238Z",
+      "latest_at": "2026-09-12T10:45:06.617238Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8489,
+        "recency": 0.7901,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8874,
+        "recency": 0.8259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -385,15 +385,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9253,
+        "recency": 0.8612,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -526,15 +526,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.956,
+        "recency": 0.8897,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -561,7 +561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -609,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8683,
+        "recency": 0.8082,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -692,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8196,
+        "recency": 0.7628,
         "story_heat": 0.0
       },
       "category": "official",
@@ -727,7 +727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -804,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7944,
+        "recency": 0.7394,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -839,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -887,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.8485,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -921,90 +921,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
-      "story_id": "story_e0d5d5d34cc3",
-      "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e95b34cb28f9",
+      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "title_zh": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-          "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+          "title_en": "AI researchers debate how close we are to recursive self-improvement",
+          "title_original": "AI researchers debate how close we are to recursive self-improvement",
+          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T16:28:11Z"
+        },
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_en": null,
+          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T10:00:00Z"
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "www.dwarkesh.com"
       ],
       "items": [
         {
-          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "title_zh": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-          "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+          "title_en": "AI researchers debate how close we are to recursive self-improvement",
+          "title_original": "AI researchers debate how close we are to recursive self-improvement",
+          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T16:28:11Z"
+        },
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_en": null,
+          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T10:00:00Z"
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7515,
-        "story_heat": 0.0
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.768,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T10:00:00Z",
-      "latest_at": "2026-09-11T10:00:00Z",
+      "earliest_at": "2026-09-11T16:28:11Z",
+      "latest_at": "2026-09-12T08:31:36.686000Z",
       "primary_item": {
-        "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "title_zh": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-        "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "summary": null,
+        "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+        "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+        "title_en": "AI researchers debate how close we are to recursive self-improvement",
+        "title_original": "AI researchers debate how close we are to recursive self-improvement",
+        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -1052,15 +1080,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8251,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,7 +1113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -1133,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8251,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1166,250 +1194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
-      }
-    },
-    {
-      "story_id": "story_39d2731bcaac",
-      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-      "url": "https://www.aibase.com/news/30999",
-      "primary_url": "https://www.aibase.com/news/30999",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "title_en": null,
-          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30999",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "title_en": null,
-          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30999",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7662,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T11:20:09.746592Z",
-      "latest_at": "2026-09-11T11:20:09.746592Z",
-      "primary_item": {
-        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-        "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-        "title_en": null,
-        "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30999",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
-      }
-    },
-    {
-      "story_id": "story_d50940abf29c",
-      "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-      "url": "https://www.aibase.com/news/30993",
-      "primary_url": "https://www.aibase.com/news/30993",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "57d3c33a3bb2c0ef39a5659f92590a45e62e76af",
-          "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-          "title_zh": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-          "title_en": null,
-          "title_original": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30993",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "57d3c33a3bb2c0ef39a5659f92590a45e62e76af",
-          "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-          "title_zh": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-          "title_en": null,
-          "title_original": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30993",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7662,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T11:20:09.746592Z",
-      "latest_at": "2026-09-11T11:20:09.746592Z",
-      "primary_item": {
-        "id": "57d3c33a3bb2c0ef39a5659f92590a45e62e76af",
-        "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-        "title_zh": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-        "title_en": null,
-        "title_original": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30993",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
-      }
-    },
-    {
-      "story_id": "story_7ab17fbcb607",
-      "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-      "url": "https://www.aibase.com/news/30995",
-      "primary_url": "https://www.aibase.com/news/30995",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "title_en": null,
-          "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30995",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "title_en": null,
-          "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30995",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7662,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T11:20:09.746592Z",
-      "latest_at": "2026-09-11T11:20:09.746592Z",
-      "primary_item": {
-        "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-        "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-        "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-        "title_en": null,
-        "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30995",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -1515,15 +1300,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5894,
-      "importance": 0.5894,
-      "importance_score": 0.5894,
+      "score": 0.579,
+      "importance": 0.579,
+      "importance_score": 0.579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8372,
+        "recency": 0.7792,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1548,7 +1333,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -1624,15 +1409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5797,
-      "importance": 0.5797,
-      "importance_score": 0.5797,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8011,
+        "recency": 0.7456,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1657,169 +1442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
-      }
-    },
-    {
-      "story_id": "story_918720d3acdd",
-      "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-      "url": "https://www.aibase.com/news/30994",
-      "primary_url": "https://www.aibase.com/news/30994",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
-          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-          "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-          "title_en": null,
-          "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
-          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-          "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-          "title_en": null,
-          "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7662,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T11:20:09.746592Z",
-      "latest_at": "2026-09-11T11:20:09.746592Z",
-      "primary_item": {
-        "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
-        "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-        "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-        "title_en": null,
-        "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30994",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
-      }
-    },
-    {
-      "story_id": "story_081a2ecf29cd",
-      "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-      "url": "https://www.aibase.com/news/30992",
-      "primary_url": "https://www.aibase.com/news/30992",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a69fb32cb6749cbaf502d72f6fbc98eb1df074ad",
-          "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-          "title_zh": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-          "title_en": null,
-          "title_original": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30992",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a69fb32cb6749cbaf502d72f6fbc98eb1df074ad",
-          "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-          "title_zh": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-          "title_en": null,
-          "title_original": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30992",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T11:20:09.746592Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7662,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T11:20:09.746592Z",
-      "latest_at": "2026-09-11T11:20:09.746592Z",
-      "primary_item": {
-        "id": "a69fb32cb6749cbaf502d72f6fbc98eb1df074ad",
-        "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-        "title_zh": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-        "title_en": null,
-        "title_original": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30992",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     },
     {
@@ -1845,7 +1468,7 @@
           "published_at": "2026-09-12T02:45:28.057000Z"
         },
         {
-          "id": "ba99535a1fd34fcb6140a0eb3d9cf3142daeb9f7",
+          "id": "487bee413149b02ad73660916597c54999d79db0",
           "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
           "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
           "title_en": "Litelm: LiteLLM Without the Bloat",
@@ -1853,15 +1476,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/kennethwolters/litelm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-11T18:10:20Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "github.com"
       ],
       "items": [
@@ -1880,7 +1503,7 @@
           "published_at": "2026-09-12T02:45:28.057000Z"
         },
         {
-          "id": "ba99535a1fd34fcb6140a0eb3d9cf3142daeb9f7",
+          "id": "487bee413149b02ad73660916597c54999d79db0",
           "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
           "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
           "title_en": "Litelm: LiteLLM Without the Bloat",
@@ -1888,23 +1511,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/kennethwolters/litelm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-11T18:10:20Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9573,
+        "recency": 0.891,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1929,7 +1552,586 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T06:16:36.582305Z"
+        "scored_at": "2026-09-12T11:19:20.634331Z"
+      }
+    },
+    {
+      "story_id": "story_288c45a0c613",
+      "title": "克劳德不再为未成年人提供服务",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "primary_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "support.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+          "title": "克劳德不再为未成年人提供服务",
+          "title_zh": "克劳德不再为未成年人提供服务",
+          "title_en": null,
+          "title_original": "克劳德不再为未成年人提供服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T12:14:15.973000Z"
+        },
+        {
+          "id": "1818f8ae8dc89bac84c02cbdab5e6121a4dee1f0",
+          "title": "Claude不再为未成年人提供服务 / Claude is no longer available for minors",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is no longer available for minors",
+          "title_original": "Claude is no longer available for minors",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T10:48:00Z"
+        },
+        {
+          "id": "7e541fb1561924944995ac316fd1a18d75c4d83c",
+          "title": "Claude不再为未成年人提供服务 / Claude is only available to people over 18 years",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is only available to people over 18 years",
+          "title_original": "Claude is only available to people over 18 years",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T10:48:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "support.claude.com"
+      ],
+      "items": [
+        {
+          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+          "title": "克劳德不再为未成年人提供服务",
+          "title_zh": "克劳德不再为未成年人提供服务",
+          "title_en": null,
+          "title_original": "克劳德不再为未成年人提供服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T12:14:15.973000Z"
+        },
+        {
+          "id": "1818f8ae8dc89bac84c02cbdab5e6121a4dee1f0",
+          "title": "Claude不再为未成年人提供服务 / Claude is no longer available for minors",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is no longer available for minors",
+          "title_original": "Claude is no longer available for minors",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T10:48:00Z"
+        },
+        {
+          "id": "7e541fb1561924944995ac316fd1a18d75c4d83c",
+          "title": "Claude不再为未成年人提供服务 / Claude is only available to people over 18 years",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is only available to people over 18 years",
+          "title_original": "Claude is only available to people over 18 years",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T10:48:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7224,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T10:48:00Z",
+      "latest_at": "2026-09-11T12:14:15.973000Z",
+      "primary_item": {
+        "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+        "title": "克劳德不再为未成年人提供服务",
+        "title_zh": "克劳德不再为未成年人提供服务",
+        "title_en": null,
+        "title_original": "克劳德不再为未成年人提供服务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "source": "support.claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T11:19:20.634331Z"
+      }
+    },
+    {
+      "story_id": "story_aff72a9138aa",
+      "title": "Hacker News 降低了人工智能驱动内容的优先级",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "primary_url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "source": "sprinklz.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": null,
+          "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "sprinklz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:28.525000Z"
+        },
+        {
+          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": "Hacker News with reduced priority for AI driven content",
+          "title_original": "Hacker News with reduced priority for AI driven content",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:52:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "sprinklz.io"
+      ],
+      "items": [
+        {
+          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": null,
+          "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "sprinklz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:28.525000Z"
+        },
+        {
+          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": "Hacker News with reduced priority for AI driven content",
+          "title_original": "Hacker News with reduced priority for AI driven content",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:52:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8323,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T15:52:49Z",
+      "latest_at": "2026-09-11T22:02:28.525000Z",
+      "primary_item": {
+        "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+        "title": "Hacker News 降低了人工智能驱动内容的优先级",
+        "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+        "title_en": null,
+        "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://sprinklz.io/public/pdwt4dve5uai",
+        "source": "sprinklz.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T11:19:20.634331Z"
+      }
+    },
+    {
+      "story_id": "story_e4952151ab1e",
+      "title": "数学领域中人工智能的偏差",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "primary_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "source": "terrytao.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": null,
+          "title_original": "数学领域中人工智能的偏差",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:07:02.862000Z"
+        },
+        {
+          "id": "267410680a72b7f080c151b1800a44d3211e7e12",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": "A Misalignment of AI in Mathematics",
+          "title_original": "A Misalignment of AI in Mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T17:30:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "terrytao.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": null,
+          "title_original": "数学领域中人工智能的偏差",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:07:02.862000Z"
+        },
+        {
+          "id": "267410680a72b7f080c151b1800a44d3211e7e12",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": "A Misalignment of AI in Mathematics",
+          "title_original": "A Misalignment of AI in Mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T17:30:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7979,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:30:26Z",
+      "latest_at": "2026-09-11T19:07:02.862000Z",
+      "primary_item": {
+        "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+        "title": "数学领域中人工智能的偏差",
+        "title_zh": "数学领域中人工智能的偏差",
+        "title_en": null,
+        "title_original": "数学领域中人工智能的偏差",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+        "source": "terrytao.wordpress.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T11:19:20.634331Z"
+      }
+    },
+    {
+      "story_id": "story_94d7dab25647",
+      "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "primary_url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": "Top mathematicians are outraged by OpenAI's methods",
+          "title_original": "Top mathematicians are outraged by OpenAI's methods",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T18:07:08Z"
+        },
+        {
+          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": null,
+          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:05.859000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": "Top mathematicians are outraged by OpenAI's methods",
+          "title_original": "Top mathematicians are outraged by OpenAI's methods",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T18:07:08Z"
+        },
+        {
+          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": null,
+          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:05.859000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7865,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:48:05.859000Z",
+      "latest_at": "2026-09-11T18:07:08Z",
+      "primary_item": {
+        "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+        "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+        "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+        "title_en": "Top mathematicians are outraged by OpenAI's methods",
+        "title_original": "Top mathematicians are outraged by OpenAI's methods",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T11:19:20.634331Z"
+      }
+    },
+    {
+      "story_id": "story_235f58b0b359",
+      "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样 / Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "primary_url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "source": "TechRadar",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+          "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样 / Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "title_zh": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样",
+          "title_en": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "title_original": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:05:00Z"
+        },
+        {
+          "id": "8d938d44930556290684684b2a5e7c7bd47c716e",
+          "title": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "title_zh": null,
+          "title_en": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "title_original": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T16:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+          "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样 / Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "title_zh": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样",
+          "title_en": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "title_original": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:05:00Z"
+        },
+        {
+          "id": "8d938d44930556290684684b2a5e7c7bd47c716e",
+          "title": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "title_zh": null,
+          "title_en": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "title_original": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T16:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7861,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T16:00:00Z",
+      "latest_at": "2026-09-11T18:05:00Z",
+      "primary_item": {
+        "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+        "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样 / Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "title_zh": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样",
+        "title_en": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "title_original": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+        "source": "TechRadar",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T11:19:20.634331Z"
       }
     }
   ]
