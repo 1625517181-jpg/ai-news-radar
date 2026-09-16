@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T21:20:13.994736Z",
+  "generated_at": "2026-09-16T00:19:05.811495Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M2KQNE5C42NEZPX6V01NHH5W",
+      "provider": "OpenAI",
+      "title": "Elevated errors with gpt-image-2.5-flare",
+      "title_zh": "Elevated errors with gpt-image-2.5-flare",
+      "status": "monitoring",
+      "impact": "major",
+      "started_at": "2026-09-15T23:50:32Z",
+      "updated_at": "2026-09-15T23:58:30Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W"
+    }
+  ]
 }
