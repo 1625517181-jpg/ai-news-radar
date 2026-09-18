@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T18:28:12.596040Z",
+  "generated_at": "2026-09-18T21:40:42.046920Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M2V76GEPJB0HQGRA0QERRZ3T",
+      "provider": "OpenAI",
+      "title": "Delayed support responses",
+      "title_zh": "Delayed support responses",
+      "status": "identified",
+      "impact": "none",
+      "started_at": "2026-09-18T21:36:41Z",
+      "updated_at": "2026-09-18T21:36:41Z",
+      "message": "Some users are experiencing delayed responses from OpenAI Support by email and chat. We’re investigating and will share updates as we learn more.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T"
+    }
+  ]
 }
